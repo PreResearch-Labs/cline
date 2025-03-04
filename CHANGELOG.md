@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.5.2
+
+### Patch Changes
+
+-   0ce66ef: Fixed problem with “win+shift+a” shortcut not working in Windows
+-   10f8637: Better Openrouter error typing and throwing more detailed messages
+-   e231cfd: Add webview to lint job
+
 ## [3.5.1]
 
 -   Add timeout option to MCP servers
